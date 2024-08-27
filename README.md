@@ -23,8 +23,8 @@
 TT/_  T**T   🆘 Using neovim cause why not
              🐧 Eat, sleep, and Breath Linux (Pop!_OS)
              🇦 ** Not arch btw (someday ofc!)
-            
+
 ```
 <hr>
 
-<p align="center" >🤷 My personal website? Try 👉 [click here](https://fatinul.github.io ) 👈 </p>
+<p align="center" > 🤷 My personal website? Try  <a href="https://fatinul.github.io" target="_blank">click here</a>  👈  </p>
