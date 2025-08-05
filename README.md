@@ -27,4 +27,4 @@ TT/_  T**T   🆘 Using neovim cause why not
 ```
 <hr>
 
-<p align="center" > 🤷 My personal website? Try  <a href="https://fatinul.github.io" target="_blank">click here</a>  👈  </p>
+<p align="center" > 🤷 My personal website? Try  <a href="https://fa.tinul.net" target="_blank">click here</a>  👈  </p>
